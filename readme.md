@@ -1,4 +1,28 @@
+# Table of Contents
+
+* [Compute](#compute)
+* [Networking](#networking)
+* [Storage](#storage)
+* [Web](#web)
+* [Mobile](#mobile)
+* [Containers](#containers)
+* [Databases](#databases)
+* [Analytics](#analytics)
+* [AI & Machine Learning](#ai--machine-learning)
+* [Internet of Things](#internet-of-things)
+* [Integration](#integration)
+* [Identity](#identity)
+* [Security](#security)
+* [DevOps](#devops)
+* [Management and Governance](#management-and-governance)
+* [Media](#media)
+* [Microsoft Azure Stack](#microsoft-azure-stack)
+
+## Useful Links
+
 Service Limits: https://docs.microsoft.com/en-gb/azure/azure-subscription-service-limits
+
+Locate your nearest Data Center: https://richorama.github.io/AzureSpeedTest2/
 
 # COMPUTE
 ## Virtual Machines
