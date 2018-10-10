@@ -1020,7 +1020,7 @@ https://docs.microsoft.com/en-us/azure/scheduler/scheduler-intro
 
 ## Automation
 
-* __Process automation__: Automate deploying, configuring, and managing your end to end processes by author runbooks graphically, in PowerShell, or Python.
+* __Process automation__: Automate deploying, configuring, and managing your end to end processes by authoring runbooks graphically, in PowerShell, or Python.
 * __Configuration management__: Manage your DSC resources in Azure Automation and apply configurations to virtual or physical machines from a DSC Pull Server in the Azure cloud.
 * __Update management__: Update Windows and Linux systems across hybrid environments.
 
