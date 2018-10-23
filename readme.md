@@ -591,7 +591,7 @@ Azure Cognitive Services are APIs, SDKs, and services available to help develope
 * __Custom Vision Service__: Allows you to build custom image classifiers.
 * __Content Moderator__: Provides monitoring for possible offensive, undesirable, and risky content.
 * __Face API__: Provides access to advanced face algorithms, enabling face attribute detection and recognition.
-* ___Emotion API__: Takes an image as an input and returns the confidence across a set of emotions for each face in the image.
+* __Emotion API__: Takes an image as an input and returns the confidence across a set of emotions for each face in the image.
 * __Video Indexer__: Enables you to extract insights from your video.
 
 ### Speech APIs
